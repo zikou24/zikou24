@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align="center">Hi 👋, I'm Bouregbi Zakaria</h1>
 <h3 align="center">A passionate fullstack developer from algeria</h3>
 
